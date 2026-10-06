@@ -1,0 +1,39 @@
+body{
+    padding: 25px;
+    font-size: larger;
+}
+.links{
+    border: none;
+}
+.button{
+    font-size: large;
+    height: 35px;
+    width: 115px;
+    border: none;
+    border-radius: 5px;
+    background: #3be6e3a0;
+}
+
+.button:hover{
+    height: 38px;
+    width: 117px;
+    background: #3be6e3;
+}
+
+.Cpp{
+    padding: 35px;
+}
+.gfg{
+    font-size: medium;
+    height: 25px;
+    width: 75px;
+    border: none;
+    border-radius: 5px;
+    background: #66df78a0;
+}
+
+.gfg:hover{
+    height: 18px;
+    width: 78px;
+    background: #1acb14;
+}
